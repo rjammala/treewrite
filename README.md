@@ -1,7 +1,7 @@
 # treewrite
 
 `treewrite` is a tool for performing automated replacements in text
-files with nested structured.  In particular, it is useful for making
+files with nested structure.  In particular, it is useful for making
 changes to programs written in C/C++.
 
 ## Examples
